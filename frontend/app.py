@@ -15,7 +15,7 @@ def local_css():
     st.markdown("""
     <style>
     /* Base theme inspired by SPECTRE Hackathon Badge */
-    @keyframes gradientDrift {cd C:\pixelsentinels
+    @keyframes gradientDrift {
         0% { background-position: 0% 50%; }
         50% { background-position: 100% 50%; }
         100% { background-position: 0% 50%; }
